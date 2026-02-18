@@ -287,7 +287,7 @@ windroseMap <- function(
           static = static,
           legend.title.autotext = legend.title.autotext,
           legend.title = legend.title,
-          str = "Wind Speed"
+          str = "Magnitude (mm/s)"
         )
 
       map <-
